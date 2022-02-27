@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Excellency Sir Thomas Fairfax, to Mr. Speaker; concerning, the forces of the Northern Association, and Nottinghamshire Horse joyning with the Army. With their severall declarations and representations. Also, two petitions from the Nottinghamshire Horse; the one to both Houses of Parliament; the other, to His Excellencie Sir Thomas Fairfax.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84768</idno>
+            <idno type="STC">Wing F175</idno>
+            <idno type="STC">Thomason E399_7</idno>
+            <idno type="STC">ESTC R201713</idno>
+            <idno type="EEBO-CITATION">99862212</idno>
+            <idno type="PROQUEST">99862212</idno>
+            <idno type="VID">114363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114363)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Excellency Sir Thomas Fairfax, to Mr. Speaker; concerning, the forces of the Northern Association, and Nottinghamshire Horse joyning with the Army. With their severall declarations and representations. Also, two petitions from the Nottinghamshire Horse; the one to both Houses of Parliament; the other, to His Excellencie Sir Thomas Fairfax.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Whittington, and are to be sold at his shop at the signe of the Blew Anchor in Cornehill neere the Royall Exchange,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114363:1"/>
+            <!-- PDF PAGE 90 -->
+            <pb facs="tcp:114363:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <p>A LETTER From His Excellency Sir Thomas Fairfax, TO Mr. SPEAKER; CONCERNING, The Forces of the Northern Aſſocia<g ref="char:EOLhyphen"/>tion, and Nottinghamſhire Horſe joy<g ref="char:EOLhyphen"/>ning with the ARMY.</p>
+            <p>With their ſeverall Declarations and Repreſentations<g ref="char:punc">▪</g>
+            </p>
+            <p>ALSO, Two Petitions from the Nottinghamſhire Horte; The one to both Houſes of Parliament; The other, to His Excellencie Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>Imprinted at <hi>London,</hi> for <hi>George Whittington,</hi> and are to be ſold at his Shop at the ſigne of the Blew Anchor in <hi>Cornehill</hi> 
+               <add>July 19<hi rend="sup">th</hi>
+               </add> neere the Royall Exchange, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114363:2"/>
+            <!-- PDF PAGE 91 -->
+            <pb n="1" facs="tcp:114363:2"/>
+            <!-- PDF PAGE 91 -->
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>HAving this day received theſe encloſed Papers, from the Northern Forces, under Col. Gen. <hi>Poyntz</hi> his command, with ſome other Papers from Col. <hi>Thorn<g ref="char:EOLhyphen"/>haghs</hi> Regiment (which is already marcht up to <hi>Buc<g ref="char:EOLhyphen"/>kingham</hi>) wherein they expreſſe their reſolutions to aſſociate themſelves with this Army, for the more ſpeedy and happy ef<g ref="char:EOLhyphen"/>fecting a true, laſting, and well-grounded Peace, to the King Parliament, and Kingdome; and in order to that, have delayed obedience to the command of many of their Officers, who for ſome reaſons beſt known to themſelves, have refuſed to joyne with them in their juſt deſires; and have alſo, as formerly, now again petitioned me to exempt them from further obedience to any other command, then what may conduce for the obtaining of the juſt deſires, and eſtabliſhment of the peace of the King<g ref="char:EOLhyphen"/>dom, as in the encloſed Papers is more fully expreſt, and further deſiring to march up ſpeedily to the Army. All which being of ſo great concernment to the Kingdome, and not well admitting delay, I thought fit to repreſent untoyou with ſpeed, their ſeveral Papers and Deſires, that I might receive your pleaſure concer<g ref="char:EOLhyphen"/>ning the things they deſire, and your commands for their pre<g ref="char:EOLhyphen"/>ſent diſpoſall; to the end, they may be better kept in Diſcipline and obedience, and ſuch diſorders prevented, as by reaſon of their want of Officers they may be ſubject to runne unto; and likewiſe to continue them in the North, leaſt by their motion to the Army, they might draw a greater concourſe and burthen of
+<pb n="2" facs="tcp:114363:3"/>
+               <!-- PDF PAGE 92 -->Souldiers Quarters upon theſe parts, then they wil be wel able to beare, and thereby the diſaffected in thoſe parts (during their abſence) may take that advantage to make inſurrections, or any diſturbance of the peace there: For the prevention whereof, &amp; diſpoſition of the whole, aſwell in order to the peace of this Kingdome, as ſpeedy reliefe of <hi>Ireland,</hi> I ſhall humbly make bold to offer my opinion, that ſince there are many ſeverall di<g ref="char:EOLhyphen"/>ſtinct, and (through theſe late diſtractions) disj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynted Forces within this Kingdome, which were ſufficient, together with this Army (being united and w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>annaged) both to preſerve the peace of this Kingdome, and give preſent reliefe to <hi>Ireland</hi> (without putting this Kingdom to the charge of raiſing new Forces at preſent for that Service) That the Parliament would ſpeedily put all the Forces under one and the ſame Command, Diſcipline, and equall eſtabliſhment for future pay and maite<g ref="char:EOLhyphen"/>nance, which being done, it would give much encouragement to ſome of the Forces that may be ſpared out of all the Forces mentioned from <hi>England</hi> to go more cheerfully into <hi>Ireland;</hi> and if with this there were ſome preſent courſe taken to pro<g ref="char:EOLhyphen"/>vide for Arreares, for ſuch Forces as might be ſpared for <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> there might in probability be an effectuall reliefe ſent o<g ref="char:EOLhyphen"/>ver into <hi>Ireland</hi> before this Summer be quite ſpent. All which I humbly tender to your conſideration, and deſire your ſpeedy Anſwer, that no time may be loſt in ſo good and neceſſary a worke, both for the quiet of this Kingdome, and relief of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> wherein none ſhall be more ready to expreſſe their for, wardneſſe, then</p>
+            <closer>
+               <dateline>Redding <date>July 16. 1647.</date>
+               </dateline>
+               <signed>Your moſt humble ſervant, <hi>T. FAIRFAX.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:114363:3"/>
+            <!-- PDF PAGE 92 -->
+            <head>The humble Repreſentations of the Souldiers of the Northern Aſ<g ref="char:EOLhyphen"/>ſociation, preſented firſt to his Excellency Sir T. Fairfax, to be by him preſented to the Honourable Houſes of Parliament.</head>
+            <opener>Humbly requeſting,</opener>
+            <p n="1">1. THat the Honorable Houſes of Parliament would be plea<g ref="char:EOLhyphen"/>ſed to look upon the Repreſentative Deſires and Grievan<g ref="char:EOLhyphen"/>ces of his Excellencies Army, as our Deſires and Grievances, which we humbly deſire may be fully (not fainedly) granted and redreſſed.</p>
+            <p n="2">2. That whereas the Parliament was pleaſed to declare a<g ref="char:EOLhyphen"/>gainſt their juſt deſires contained in their Repreſentation, and proceed to disband before redreſſe of the Grievances, we hum<g ref="char:EOLhyphen"/>bly deſire, That the Repreſentations of the aforeſaid Deſires, &amp; obſtinctive of the juſt ſatisfactions (their Deſires and Grie<g ref="char:EOLhyphen"/>vances being ours) may be brought forth to a legall tryall.</p>
+            <p n="3">3. That the illegall impriſonment of ſeverall Officers, and the endeavours uſed by ſome to impriſon others, for ſpeaking in behalf of his Excellencies <hi>Army,</hi> and their juſt dues may be repaired, and the occaſioners thereof dealt with according to their deſerts.</p>
+            <p n="4">4. That thoſe who endeavoured to render his Excellencies army odious by aſperſions, and thereby to deprive them of that honour, which they have ſo dearly bought, and to incenſe the kingdome and ſouldiers againſt them, may bee proceeded a<g ref="char:EOLhyphen"/>gainſt according to juſtice.</p>
+            <p n="5">5. That ſuch proviſion may be made for better ſupply of us for the future, whereby we may be enabled to diſcharge our quarters, that ſo we may not for neceſſary food be beholding to the Parliaments friends (who have ſpent their eſtates in the ſervice) whoſe preſervation is in the things we deſire, and in whoſe happineſſe we rejoyce.</p>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:114363:4"/>
+            <!-- PDF PAGE 93 -->
+            <head>A Declaration of the free conſent and coherence of the Souldiers in the Northern Aſſociation With the Army now under the Command of His Excellency Sir <hi>Thomas Fairfax.</hi>
+            </head>
+            <p>WHereas there hath been an expreſſe of the reall and honourable intentions, and grounds of and from the Army manifeſted (in moſt juſt and honeſt termes to the hou<g ref="char:EOLhyphen"/>ſes of Parliament and Kingdom) cleering to every indiffer<g ref="char:EOLhyphen"/>ent and ſound judgment the cauſe of their proceedings, for the Kingdome and in it their own dues, and intereſſed ſatis<g ref="char:EOLhyphen"/>faction, we having, by Good providence, this opportunity to ſhew our affections no leſſe ready, and our ſelves, to maintain and confirm the lawfull obtaining &amp; keeping our right &amp; juſt priviledges by themſelvs ſo declared to be: we therfore declare as in duty bound, for our mercies received from God and the faithfull ſervice we owe to the Kingdome, to joyne &amp; aſſociate our ſelves with the Southern Army, under the com<g ref="char:EOLhyphen"/>mand of his Excellency Sir <hi>Thomas Fairfax,</hi> for the ſpeedy and happy effecting, a true, laſting and well grounded peace, wherein may conſiſt the preheminence of all honour and wel<g ref="char:EOLhyphen"/>fare, both for the King, Parliament, and Kingdom, and that there may be no miſapprehenſions, as uſually publik reſolutions and reſolves are lyable unto at the firſt, appearing in the eyes of men un-acquainted with the buſineſſe, and in the eyes of thoſe (who being pre-poſſeſt with guilt cunningly oppoſe) we further declare our ſelves free from any ſecret intentions in reference to the proportion of any particular deſignes, or our own particular interreſts, but are abſolutely raiſed and moved to a neceſſary compliance with the Army to thoſe good and infallible principes, which tendeth to the promotion and protection of juſt lice, and the liberty of
+<pb n="5" facs="tcp:114363:4"/>
+               <!-- PDF PAGE 93 -->the Subject, but hitherto (by the management of the affaires of ſo great importance) have appeared; &amp; we ſhal no leſſe en<g ref="char:EOLhyphen"/>deavour to defen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with our lives and eſtates, the lawfull de<g ref="char:EOLhyphen"/>ſignes of thoſe truly well-affected Souldiers then we would oppoſe a forreign invaſion or prevent an indirect or unwar<g ref="char:EOLhyphen"/>rantable warre, our warrant being the ſame for either nature or law, and our Covenant binding thereunto.</p>
+            <p>Wee ſhall therfore proſecure the diſcovery of all perſons complotting and combining againſt us, that we may keepe our friends and Nation free from any in<g ref="char:EOLhyphen"/>forcement injury or prejudice eſpecially wee giving to underſtand that we have not any intentions to ſpill the blood of any man, or to wrong their propriety of goods or intrench upon the conſcience, of any, our chiefe care be<g ref="char:EOLhyphen"/>ing in this our Declaration and intention, at preſent and for future, to provide for a correſpondency with that army, to live or dye, rejoyce or ſuffer with them, as we are mutually en<g ref="char:EOLhyphen"/>gaged, our expectations of reward being no other then the ſalving of thoſe griveances publiſhed from that Army (with our own) the Souldiers, honour and lively-hood repaired; their ſervice thankfully requited, and all corrupt avthority in Courts of Indicature and Offices of the Kingdom expunged, and all thoſe ſeverall good Acts for the preſent and future concernment, of the Kingdome eſtabliſh<g ref="char:EOLhyphen"/>ed, which as they were moſt ſatisfactory to the generality, ſo we deſire not to require an addition of redreſſe of any parti<g ref="char:EOLhyphen"/>cular mens wants or ſufferings, but attend to the gene<g ref="char:EOLhyphen"/>rall buſineſſe in hand with the accompliſhment of the Armie, and our candid and juſt demands, the juſtice, and ſincerity whereof, we deſire to vindicate as our lives.</p>
+            <closer>
+               <dateline>Pontefract <date>Iuly 5.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <list>
+                           <head>Colonell General Poyntz Regiment of Horſe.</head>
+                           <item>Robert Bradley,</item>
+                           <item>Nathaniel Croft.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Collonel Bethels Regiment.</head>
+                           <item>George Iſſot.</item>
+                           <item>Thomas Iackson,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <pb n="6" facs="tcp:114363:5"/>
+                        <!-- PDF PAGE 94 -->
+                        <list>
+                           <head>Collonel Copleyes Regiment.</head>
+                           <item>Nicholas Baker.</item>
+                           <item>William Bates</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Collonel Orvertons Regiment</head>
+                           <item>Iohn Bennington</item>
+                           <item>William Wren</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Collonel Brights Regiment</head>
+                           <item>John Marke</item>
+                           <item>Edward Field</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Collonel Ponſonbyes Regiment.</head>
+                           <item>Thomas Hunter</item>
+                           <item>Thomas Wharton</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Collonel Collenwords Regiment.</head>
+                           <item>Robert Shayre</item>
+                           <item>Thomas Shacklock</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Collonel Legards Regiment.</head>
+                           <item>Robert Tod.</item>
+                           <item>William Blanchard.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+Agitating in behalfe of the ſeverall and reſpective Regiments.</closer>
+         </div>
+         <div type="document">
+            <head>This to be ſubſcribed by all the Officers, and Souldiers in the Regiment, &amp;c.</head>
+            <p>Whereas the Officers and Souldiers of ſeverall Regiments of the Army, under the Command of Sir <hi>Thomas Fairfax,</hi> did on the 5. of Iune laſt paſt, at a generall Randezvouze neere <hi>Newmarket,</hi> enter into an engagement, to and with each other, and to and with the Parliament and Kingdome, which ingage<g ref="char:EOLhyphen"/>ment, having been ſince printed and publiſhed, hath now been read unto us: We the Officers and Souldiers, under the Com<g ref="char:EOLhyphen"/>mand of Collonel <hi>Thornehaghs,</hi> do hereby declare our ſelves to enter into the ſame ingagement, with the Army, and to and with each other, and to and with the Parliament and King<g ref="char:EOLhyphen"/>dome: In teſtimony whereof we ſubſcribe our hands.</p>
+            <closer>
+               <dateline>Nettingham <date>Iuly 7. 1646.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>George Palmer <hi>Captaine,</hi>
+                     </item>
+                     <item>Rich. Franke <hi>Quarterm.</hi>
+                     </item>
+                     <item>Edward Kirke <hi>Quartm.</hi>
+                     </item>
+                     <item>Francis Sutley.</item>
+                     <item>Iohn Pinerder.</item>
+                     <item>Iohn Cocke.</item>
+                     <item>William Roofe.</item>
+                     <item>Robert Marſhall.</item>
+                     <item>William Royſton.</item>
+                     <item>Robert Alfiet.</item>
+                     <item>Robert Hide.</item>
+                     <item>Iohn Brittan.</item>
+                     <item>Thomas Pond.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:114363:5"/>
+            <!-- PDF PAGE 94 -->
+            <head>To His Excellency Sir <hi>Thomas Fairfax,</hi> Generall of the Forces raiſed by Authority of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">The humble Petition of <hi>Nottinghamſhire</hi> Horſe, &amp;c.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat although we the Regiment under the Command of our honoured Colonell, Col. <hi>Thornhagh,</hi> never had ſo much our owne deſires as to ſerve under the immediate command of your Excellency in that your gallant and faithfull Field Army; yet having received a reſolution next to the Juſtice of our Cauſe, by your Excellencies virtuall preſence in the Commiſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of our honoured Commanders, we may without vanity profeſſe, That in our Orbes we have moved for the advancing and pro<g ref="char:EOLhyphen"/>curing this Kingdomes peace and liberty, ſo cheerfully, that we cannot doubt your Excellencies countenance and aſſiſtance, which we humbly implore in our humble addreſſes to the Par<g ref="char:EOLhyphen"/>liament, profeſſing that ſuch is our reſentment of the injuries done unto you as done unto our ſelves, neither will we hope to ſtand, if you fall; nor fear we falling, if you ſtand, when no<g ref="char:EOLhyphen"/>thing is controverted, but the ſame for which wee firſt enga<g ref="char:EOLhyphen"/>ged, and dare not recede from, <hi>viz.</hi> The priviledge of Parlia<g ref="char:EOLhyphen"/>ment. Of Free born Subjects, and Reformation of Church and Common-wealth; And as to the better effecting all theſe, the neceſſary and juſt vindication of the too much ſlighted Souldiery, amongſt wee your humble Petitioners, who haue from the beginning of our engagements, which beare date al<g ref="char:EOLhyphen"/>moſt with the beginning of theſe warres, ſerved the Parlia<g ref="char:EOLhyphen"/>ment theſe five yeares, and have not received for our ſervice paſt 6.8. <hi>per weeke</hi> in money, nor free quarter one weeke wish another; and that there is at this time due unto this Regiment
+<pb n="8" facs="tcp:114363:6"/>
+               <!-- PDF PAGE 95 -->in Arreares 40000 <hi>l.</hi> and upwards, that we have not <unclear>received</unclear> above one Moneths pay theſe 50 weekes; and having for our preſent accomodation and maintenance no other ſubſiſtence, then what a ſmall and harraſſed County of Charity (which is malignant) will afford in meat and drink: A ſlender requitall, as we conceive, for our loſſe of bloud.</p>
+            <p>Our humble requeſt unto your Excellency is, That you will recommend our further addreſſes unto the conſide<g ref="char:EOLhyphen"/>ration of the Honourable Houſes of Parliament, where<g ref="char:EOLhyphen"/>by we may obtain the wages of our bloud, our Arreares, and ſuch preſent maintenance, as firſt when we engaged under their ſervice were promiſed; and yet that we may not hereby be underſtood, to be unconcern'd in, or diſin<g ref="char:EOLhyphen"/>gaged from the paſt or future neceſſity of the Army in the plaine and honeſt proſecution of their Propoſition and Deſires in the late Declaration, and that we accor<g ref="char:EOLhyphen"/>ding to our proportion of time and arreares may be ſa<g ref="char:EOLhyphen"/>tified, as the Army ſhall be for their proportions.</p>
+            <argument>
+               <p>(<hi>Subſcribed</hi> George Palmer <hi>Captain, and the reſt, as in the next Paper before.</hi>)</p>
+            </argument>
+         </div>
+         <div type="petition">
+            <pb n="9" facs="tcp:114363:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <head>To the Right Honourable the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</head>
+            <head type="sub">The humble Petition of the Nottinghamſhire Horſe, &amp;c.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas we the Regiment under the command of our noble and ever honoured Col. <hi>Francis Thornhagh</hi> (a Member of the Houſe of Commons) have for the ſpace of five years or thereabouts with faithfulneſſe ſerved the king<g ref="char:EOLhyphen"/>dome by the Authority and Command of the Parliament a<g ref="char:EOLhyphen"/>gainſt theirs and the Kingdomes enemies, having bin accor<g ref="char:EOLhyphen"/>ding to our imployment acceſſaries to what ever harn bindon as to the deare purchaſing of Peace and liberty to the poore (yet free-borne) people of this Kingdome, and are notwith<g ref="char:EOLhyphen"/>ſtanding in Arrears at the leaſt fourty thouſand pounds for that voluntary (yet conditionall) ſervice which with the expence of ſome blood, we have performed, neither have we ever received our monies or free quarter, in a ſume (if the totall of all was here remiſed, as might computed make every week worth 6 s unto us, ſince we have borne armes our preſent quallity now being ſuch as renders us unable to ſubſiſt, or compell a lively-hood by any regular way or our poore ex<g ref="char:EOLhyphen"/>hauſted County, neither are we aſſured of the wages of our blood, our juſt, well deſerved and often promiſed arrears.</p>
+            <p>Wee therefore humbly pray, that whatſoever ſhall be granted (in relation to the ſouldiers and peoples good) to that faithfull Army of yours, under the Command of Sir <hi>Thomas Fairfax,</hi> (who have bin alike faithfull to their truſt) according to the propotion of their Arrears, &amp; time and in the meane while, that ſuch pay as by the new Mo<g ref="char:EOLhyphen"/>dell was allowed to all, (but never paid to us) may be du<g ref="char:EOLhyphen"/>ly depoſited for our preſent maintenance.</p>
+            <closer>And wee ſhall pray, &amp;c.</closer>
+            <argument>
+               <p>Subſcribed as the former.</p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton,</hi> at the Angel in Ivie-lane. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
